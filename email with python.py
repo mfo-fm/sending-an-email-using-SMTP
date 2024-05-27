@@ -6,7 +6,7 @@ import datetime
 def send_email():
     # Email account credentials
     from_email = "olaniyanfarouqmo@gmail.com"
-    password = "glhl fgaz pqwf cuyg"  # Use the generated app password
+    password = "****"  # Use the generated app password
     to_email = "olaniyanfarouqmo@yahoo.com"
 
     # Create message container
